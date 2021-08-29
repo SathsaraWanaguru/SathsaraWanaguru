@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+I am Sathsara Wanaguru
+My IT number - "IT20216528"
+Github Username - "SathsaraWanaguru"
+To reach me - "sathsarawanaguru@gmail.com"
 <!--
 **SathsaraWanaguru/SathsaraWanaguru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
